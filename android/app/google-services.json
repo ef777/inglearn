@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726418846270",
+    "project_id": "vocopus",
+    "storage_bucket": "vocopus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726418846270:android:74b2979fe1a9a253c0576f",
+        "android_client_info": {
+          "package_name": "com.vocopus.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726418846270-53o9fm54rj9o4p4k5n6v3hggm2i8spt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41AQO3UXmXaUppv3myODBG5vznC4wKgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726418846270-53o9fm54rj9o4p4k5n6v3hggm2i8spt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

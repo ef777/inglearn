@@ -1,0 +1,35 @@
+{
+  "provider": "apple_pay",
+  "data": {
+    "merchantIdentifier": "merchant.com.ile.tr",
+    "displayName": "İle Yazılım",
+    "merchantCapabilities": [
+      "3DS",
+      "debit",
+      "credit"
+    ],
+    "supportedNetworks": [
+      "amex",
+      "visa",
+      "discover",
+      "masterCard"
+    ],
+    "countryCode": "TR",
+    "currencyCode": "TRY",
+    "requiredBillingContactFields": [
+      "emailAddress",
+      "name",
+      "phoneNumber",
+      "postalAddress"
+    ],
+    "requiredShippingContactFields": [],
+    "shippingMethods": [
+      {
+        "amount": "0.00",
+        "detail": "Available within an hour",
+        "identifier": "in_store_pickup",
+        "label": "In-Store Pickup"
+      }
+    ]
+  }
+}
